@@ -1,6 +1,6 @@
 # netflix_flutter
 
-A new Flutter project.
+Firebase alternatifi olan Supabase ile netflix klonu yaptım
 
 ## Authentication
 
@@ -12,4 +12,4 @@ A new Flutter project.
 
 ## PLAY
 
-![videosayfa1](https://user-images.githubusercontent.com/77542507/136257843-eefcd9f5-9b41-45f7-8592-c79c0b76013f.png)
+![videosayfa1](https://user-images.githubusercontent.com/77542507/136257843-eefcd9f5-9b41-45f7-8592-c79c0b76013f.png)>![videosayfa2](https://user-images.githubusercontent.com/77542507/136257980-adf62efe-dbfe-4129-b499-b074cc5976aa.png)
