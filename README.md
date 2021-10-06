@@ -9,3 +9,7 @@ A new Flutter project.
 ## ANASAYFA
 
 ![anasayfa1](https://user-images.githubusercontent.com/77542507/136257478-9fb8a6fa-cceb-4900-8364-fdc9bff7a37b.png)>![anasayfa2](https://user-images.githubusercontent.com/77542507/136257650-e011ec5a-b083-49ca-8449-cbbf47c6d238.png)
+
+## PLAY
+
+![videosayfa1](https://user-images.githubusercontent.com/77542507/136257843-eefcd9f5-9b41-45f7-8592-c79c0b76013f.png)
